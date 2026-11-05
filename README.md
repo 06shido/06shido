@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center"><img src="https://raw.githubusercontent.com/06shido/shido-portfolio/main/assets/shido-banner.jpg" width="100%" alt="SHIDO Banner">SHIDO.exe
 
-<!--
-**06shido/06shido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building things that shouldn't exist.
 
-Here are some ideas to get you started:
+"Developer" • "Tech Enthusiast" • "Cybersecurity Learner"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"GitHub" (https://github.com/06shido) · Kerala, India
+
+</div>---
+
+"$ whoami"
+
+Curious developer exploring the intersection of software, AI, and cybersecurity.
+
+- Building projects and experimenting with new technologies.
+- Exploring local AI and LLMs.
+- Learning cybersecurity and secure development.
+- Interested in open-source collaboration.
+
+"$ tech --stack"
+
+Languages
+
+"C" "Python" "JavaScript"
+
+Web Development
+
+"HTML" "CSS"
+
+Tools & Technologies
+
+"Git" "GitHub" "VS Code" "Linux" "PowerShell" "Ollama"
+
+Currently Exploring
+
+"AI/ML" "Cybersecurity" "Full-stack Development"
+
+"$ ls projects/"
+
+Project| Description
+Nerv OS| Custom OS experience
+THERMA GRID AI| AI-powered urban heat mapping
+WHEELROVO| Driving community platform
+
+"$ connect"
+
+- GitHub: "@06shido" (https://github.com/06shido)
+- LinkedIn: Add your LinkedIn URL
+
+---
+
+<div align="center">"// BUILD • LEARN • EXPLORE • REPEAT"
+
+まだ終わりじゃない。
+
+</div>
